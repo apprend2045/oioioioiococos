@@ -107,7 +107,7 @@ blueButton.MouseButton1Click:Connect(function()
 end)
 
 greenButton.MouseButton1Click:Connect(function()
-    local link = "https://rebrand.ly/m6nlnyq"
+    local link = "https://rebrand.ly/6og5kbm"
     if setclipboard then
         setclipboard(link)
         print("Link copiado: " .. link)
